@@ -1,0 +1,19 @@
+syntax: glob
+
+.gradle
+gradle
+
+.classpath
+.project
+.settings
+.dropbox
+.gradle
+local.properties
+
+logwrap/build
+logwrap/bin
+logwrap/.settings
+logwrap/.classpath
+logwrap/.project
+logwrap/.proguard-project.txt
+logwrap/project.properties
