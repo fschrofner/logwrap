@@ -51,7 +51,7 @@ Log.log(LogLevel.VERBOSE, "TAG", "message");  //still logs to VERBOSE
 
 ##Using LogWrap to log to files
 LogWrap can also be used to log directly into files.
-First you should specify a filepath, if you don't the default filepath will be used (the logs directory on your sd-card).
+First you should specify a filepath, if you don't, the default filepath will be used (the logs directory on your sd-card).
 After that you can log into files by using either `Log.f` or `Log.logToFile`.
 
 ```java
@@ -72,3 +72,7 @@ response at 2015-04-28 16:09:58
 {"success":1,"error":0,"data":{"total_distance":"0.0","battery":"68","current_speed":"25.0","timestamp":"1429194481004","user_id":"b0be3265-c96e-11e4-91d0-0ae8dd0a5384","status":"caught","avg_pace":"21","total_time":"1801000"}}
 ================================================================== 
 ```
+
+##Licence
+
+Licence is still missing..
